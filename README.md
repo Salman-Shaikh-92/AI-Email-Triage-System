@@ -1,6 +1,6 @@
 # 📧 AI-Powered Email Triage & Auto-Responder System
 
-![Make.com Workflow](./workflow-diagram.png)
+![Make.com Workflow](/AI-Email-Triage-System)
 
 ## 🚀 Overview
 An intelligent, automated email management system built using **Make.com**, **Google Gemini AI**, and **JSON Parsing**. This workflow monitors a Gmail inbox, uses Large Language Models (LLMs) to analyze incoming emails, and makes autonomous routing decisions to either draft a reply, send an urgent escalation alert, or ignore non-actionable emails.
